@@ -1,5 +1,8 @@
 from typing import List
 
+# make changes to this code here.
+print('i have changed this code a litte bit.')
+
 board = [
     "......................",
     "......##########......",
